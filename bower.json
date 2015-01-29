@@ -1,0 +1,20 @@
+{
+  "name": "jquery-attributes",
+  "version": "0.0.0",
+  "homepage": "https://github.com/amitmtrn/jquery-attributes",
+  "authors": [
+    "amitmtrn <amit@mtrn.co.il>"
+  ],
+  "main": "jq-attr.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
