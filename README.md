@@ -1,3 +1,5 @@
+[![Dependency Status](https://david-dm.org/amtmtrn/jquerjquery-attributes.svg)](https://github.com/amitmtrn/jquery-attributes)
+
 # jQuery Attributes
 
 This repository use jQuery to create attribute that lead to action.
